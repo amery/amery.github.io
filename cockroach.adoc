@@ -1,0 +1,8 @@
+Cockroach: The Ultimate Bug
+===========================
+
+The _Cockroach_ is a private bench on a single board intended for embedded software
+developers.
+
+The _Cockroach_ connects via USB 3.1 to a PC and _optionally_ to an external DC power (5-36V)
+and features:
